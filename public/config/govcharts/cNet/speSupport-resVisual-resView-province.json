@@ -1,0 +1,53 @@
+{
+  "mapTopCardList": [
+    { "key": "0", "name": "云网客户数", "value": 139, "img": "CIcon-Avatar", "color": "rgba(46, 196, 120, 1)", "backgroundColor": "linear-gradient(360deg, rgba(46, 196, 120, 0.64) 0%, rgba(46, 196, 120, 0.32) 100%)" },
+    { "key": "1", "name": "资源池数", "value": 12, "img": "CIcon-Sound-One", "color": "rgba(17, 174, 220, 1)", "backgroundColor": "linear-gradient(360deg, rgba(17, 174, 220, 0.64) 0%, rgba(17, 174, 220, 0.32) 100%)" },
+    { "key": "2", "name": "省内入云专线", "value": 37, "img": "CIcon-Card-Two", "color": "rgba(255, 170, 6, 1)", "backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)" },
+    { "key": "3", "name": "省外入云专线", "value": 5231, "img": "CIcon-Sim-Card", "color": "rgba(2, 106, 255, 1)", "backgroundColor": "linear-gradient(360deg, rgba(2, 106, 255, 0.64) 0%, rgba(2, 106, 255, 0.32) 100%)" }
+  ],
+  "mapData": {
+    "names": ["云网客户数", "资源池数", "省内入云专线", "省外入云专线"],
+    "maxValues": [100, 100, 100, 10000],
+    "info": [{"id":"530100","value":[327,46,68,12855]}, {"id":"530300","value":[272,35,65,26323]}, {"id":"530400","value":[182,83,63,4973]}, {"id":"530500","value":[40,100,57,24117]}, {"id":"530600","value":[294,7,23,28477]}, {"id":"530700","value":[284,91,67,16867]}, {"id":"530800","value":[150,48,92,12655]}, {"id":"530900","value":[294,55,91,2951]}, {"id":"532300","value":[84,51,91,24103]}, {"id":"532500","value":[40,83,62,21221]}, {"id":"532600","value":[356,40,66,24844]}, {"id":"532800","value":[256,2,54,18292]}, {"id":"532900","value":[61,98,86,25425]}, {"id":"533100","value":[69,69,79,6811]}, {"id":"533300","value":[172,37,15,6007]}, {"id":"533400","value":[158,60,23,14063]}]
+  },
+  "customServiceData": {
+    "title": "客户服务模式",
+    "info": [
+      { "value": 125, "name": "优享", "color": "#0066FF", "url": "" },
+      { "value": 87, "name": "专享", "color": "#FFA800", "url": "" },
+      { "value": 67, "name": "尊享", "color": "#2EC478", "url": "" }
+    ]
+  },
+  "dnnData": {
+    "title": "DNN类型",
+    "info": [
+      { "value": 156, "name": "省内", "color": "#66E2FB", "url": "" },
+      { "value": 981, "name": "全国", "color": "#2EC478", "url": "" }
+    ]
+  },
+  "coreNetRes5GData": [
+    { "name": "共享型UPF数", "value": 106, "img": "UPF.png" },
+    { "name": "独享型UPF数", "value": 289, "img": "UPF.png" },
+    { "name": "AMF数", "value": 99, "img": "AMF.png" },
+    { "name": "SMF数", "value": 86, "img": "SMF.png" }
+  ],
+  "honorNetRes5GData": [
+    { "name": "独享型无线基站数", "value": 73, "img": "BaseStation.png" },
+    { "name": "独享型MEC资源数", "value": 65, "img": "MEC.png" }
+  ],
+  "warningRanking3Data": {
+    "ranking":"排名",
+    "province":"地市",
+    "warn":"客户数",
+    "Working":"工单数",
+    "value":["曲靖","大理","丽江","昭通","临沧","玉溪","昆明","保山"],
+    "nun":[96,90,84,78,70,68,67,58],
+    "number":["97","94","92","88","85","61","54","50"]
+  },
+  "lineChartData": [{
+    "name": "客户数",
+    "data": [78, 89, 67, 82, 58, 80, 83],
+    "xData": ["06-01", "06-05", "06-10", "06-15", "06-20", "06-25", "06-30"],
+    "yName": "单位： 个"
+  }]
+}

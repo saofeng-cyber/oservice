@@ -1,0 +1,1268 @@
+{
+  "data": {
+    "mapData": {
+      "names": [
+        "5G专网客户数",
+        "专用DNN数",
+        "专用开片数",
+        "专用开卡数"
+      ],
+      "maxValues": [
+        400,
+        100,
+        100,
+        30000
+      ],
+      "info": [
+        {
+          "id": "xin_jiang",
+          "value": [
+            101,
+            73,
+            42,
+            20499
+          ]
+        },
+        {
+          "id": "xi_zang",
+          "value": [
+            36,
+            79,
+            20,
+            24785
+          ]
+        },
+        {
+          "id": "nei_meng_gu",
+          "value": [
+            176,
+            82,
+            44,
+            2122
+          ]
+        },
+        {
+          "id": "qing_hai",
+          "value": [
+            110,
+            54,
+            40,
+            1418
+          ]
+        },
+        {
+          "id": "si_chuan",
+          "value": [
+            19,
+            53,
+            70,
+            25474
+          ]
+        },
+        {
+          "id": "hei_long_jiang",
+          "value": [
+            34,
+            12,
+            8,
+            25891
+          ]
+        },
+        {
+          "id": "gan_su",
+          "value": [
+            125,
+            21,
+            93,
+            4355
+          ]
+        },
+        {
+          "id": "yun_nan",
+          "value": [
+            332,
+            91,
+            37,
+            308
+          ]
+        },
+        {
+          "id": "guang_xi",
+          "value": [
+            249,
+            2,
+            41,
+            7342
+          ]
+        },
+        {
+          "id": "hu_nan",
+          "value": [
+            136,
+            55,
+            1,
+            767
+          ]
+        },
+        {
+          "id": "shan_xi_1",
+          "value": [
+            352,
+            61,
+            51,
+            6444
+          ]
+        },
+        {
+          "id": "guang_dong",
+          "value": [
+            398,
+            74,
+            8,
+            29356
+          ]
+        },
+        {
+          "id": "ji_lin",
+          "value": [
+            205,
+            21,
+            76,
+            29565
+          ]
+        },
+        {
+          "id": "he_bei",
+          "value": [
+            116,
+            51,
+            83,
+            25418
+          ]
+        },
+        {
+          "id": "hu_bei",
+          "value": [
+            358,
+            77,
+            74,
+            318
+          ]
+        },
+        {
+          "id": "gui_zhou",
+          "value": [
+            64,
+            62,
+            70,
+            25028
+          ]
+        },
+        {
+          "id": "shan_dong",
+          "value": [
+            277,
+            16,
+            97,
+            24124
+          ]
+        },
+        {
+          "id": "jiang_xi",
+          "value": [
+            97,
+            87,
+            49,
+            3
+          ]
+        },
+        {
+          "id": "he_nan",
+          "value": [
+            163,
+            86,
+            9,
+            26603
+          ]
+        },
+        {
+          "id": "liao_ning",
+          "value": [
+            79,
+            2,
+            34,
+            19010
+          ]
+        },
+        {
+          "id": "shan_xi_2",
+          "value": [
+            392,
+            45,
+            84,
+            12854
+          ]
+        },
+        {
+          "id": "an_hui",
+          "value": [
+            384,
+            29,
+            88,
+            8616
+          ]
+        },
+        {
+          "id": "fu_jian",
+          "value": [
+            232,
+            38,
+            98,
+            9803
+          ]
+        },
+        {
+          "id": "zhe_jiang",
+          "value": [
+            294,
+            29,
+            8,
+            23314
+          ]
+        },
+        {
+          "id": "jiang_su",
+          "value": [
+            139,
+            12,
+            37,
+            5231
+          ]
+        },
+        {
+          "id": "chong_qing",
+          "value": [
+            163,
+            39,
+            5,
+            23836
+          ]
+        },
+        {
+          "id": "ning_xia",
+          "value": [
+            353,
+            99,
+            59,
+            17874
+          ]
+        },
+        {
+          "id": "hai_nan",
+          "value": [
+            35,
+            22,
+            25,
+            29265
+          ]
+        },
+        {
+          "id": "tai_wan",
+          "value": [
+            310,
+            70,
+            60,
+            19283
+          ]
+        },
+        {
+          "id": "bei_jing",
+          "value": [
+            296,
+            75,
+            8,
+            23481
+          ]
+        },
+        {
+          "id": "tian_jin",
+          "value": [
+            188,
+            18,
+            73,
+            6694
+          ]
+        },
+        {
+          "id": "shang_hai",
+          "value": [
+            151,
+            11,
+            65,
+            17420
+          ]
+        },
+        {
+          "id": "xiang_gang",
+          "value": [
+            277,
+            76,
+            63,
+            12437
+          ]
+        },
+        {
+          "id": "ao_men",
+          "value": [
+            230,
+            10,
+            25,
+            12491
+          ]
+        }
+      ]
+    },
+    "mapData1": {
+      "names": [
+        "5G专网客户数",
+        "专用DNN数",
+        "专用开片数",
+        "专用开卡数1"
+      ],
+      "maxValues": [
+        400,
+        100,
+        100,
+        30000
+      ],
+      "info": [
+        {
+          "id": "xin_jiang",
+          "value": [
+            101,
+            73,
+            42,
+            20499
+          ]
+        },
+        {
+          "id": "xi_zang",
+          "value": [
+            36,
+            79,
+            20,
+            24785
+          ]
+        },
+        {
+          "id": "nei_meng_gu",
+          "value": [
+            176,
+            82,
+            44,
+            2122
+          ]
+        },
+        {
+          "id": "qing_hai",
+          "value": [
+            110,
+            54,
+            40,
+            1418
+          ]
+        },
+        {
+          "id": "si_chuan",
+          "value": [
+            19,
+            53,
+            70,
+            25474
+          ]
+        },
+        {
+          "id": "hei_long_jiang",
+          "value": [
+            34,
+            12,
+            8,
+            25891
+          ]
+        },
+        {
+          "id": "gan_su",
+          "value": [
+            125,
+            21,
+            93,
+            4355
+          ]
+        },
+        {
+          "id": "yun_nan",
+          "value": [
+            332,
+            91,
+            37,
+            308
+          ]
+        },
+        {
+          "id": "guang_xi",
+          "value": [
+            249,
+            2,
+            41,
+            7342
+          ]
+        },
+        {
+          "id": "hu_nan",
+          "value": [
+            136,
+            55,
+            1,
+            767
+          ]
+        },
+        {
+          "id": "shan_xi_1",
+          "value": [
+            352,
+            61,
+            51,
+            6444
+          ]
+        },
+        {
+          "id": "guang_dong",
+          "value": [
+            398,
+            74,
+            8,
+            29356
+          ]
+        },
+        {
+          "id": "ji_lin",
+          "value": [
+            205,
+            21,
+            76,
+            29565
+          ]
+        },
+        {
+          "id": "he_bei",
+          "value": [
+            116,
+            51,
+            83,
+            25418
+          ]
+        },
+        {
+          "id": "hu_bei",
+          "value": [
+            358,
+            77,
+            74,
+            318
+          ]
+        },
+        {
+          "id": "gui_zhou",
+          "value": [
+            64,
+            62,
+            70,
+            25028
+          ]
+        },
+        {
+          "id": "shan_dong",
+          "value": [
+            277,
+            16,
+            97,
+            24124
+          ]
+        },
+        {
+          "id": "jiang_xi",
+          "value": [
+            97,
+            87,
+            49,
+            3
+          ]
+        },
+        {
+          "id": "he_nan",
+          "value": [
+            163,
+            86,
+            9,
+            26603
+          ]
+        },
+        {
+          "id": "liao_ning",
+          "value": [
+            79,
+            2,
+            34,
+            19010
+          ]
+        },
+        {
+          "id": "shan_xi_2",
+          "value": [
+            392,
+            45,
+            84,
+            12854
+          ]
+        },
+        {
+          "id": "an_hui",
+          "value": [
+            384,
+            29,
+            88,
+            8616
+          ]
+        },
+        {
+          "id": "fu_jian",
+          "value": [
+            232,
+            38,
+            98,
+            9803
+          ]
+        },
+        {
+          "id": "zhe_jiang",
+          "value": [
+            294,
+            29,
+            8,
+            23314
+          ]
+        },
+        {
+          "id": "jiang_su",
+          "value": [
+            139,
+            12,
+            37,
+            5231
+          ]
+        },
+        {
+          "id": "chong_qing",
+          "value": [
+            163,
+            39,
+            5,
+            23836
+          ]
+        },
+        {
+          "id": "ning_xia",
+          "value": [
+            353,
+            99,
+            59,
+            17874
+          ]
+        },
+        {
+          "id": "hai_nan",
+          "value": [
+            35,
+            22,
+            25,
+            29265
+          ]
+        },
+        {
+          "id": "tai_wan",
+          "value": [
+            310,
+            70,
+            60,
+            19283
+          ]
+        },
+        {
+          "id": "bei_jing",
+          "value": [
+            296,
+            75,
+            8,
+            23481
+          ]
+        },
+        {
+          "id": "tian_jin",
+          "value": [
+            188,
+            18,
+            73,
+            6694
+          ]
+        },
+        {
+          "id": "shang_hai",
+          "value": [
+            151,
+            11,
+            65,
+            17420
+          ]
+        },
+        {
+          "id": "xiang_gang",
+          "value": [
+            277,
+            76,
+            63,
+            12437
+          ]
+        },
+        {
+          "id": "ao_men",
+          "value": [
+            230,
+            10,
+            25,
+            12491
+          ]
+        }
+      ]
+    },
+    "mapData2": {
+      "names": [
+        "5G专网客户数",
+        "专用DNN数",
+        "专用开片数",
+        "专用开卡数"
+      ],
+      "maxValues": [
+        400,
+        100,
+        100,
+        30000
+      ],
+      "info": [
+        {
+          "id": "530100",
+          "value": [
+            327,
+            46,
+            68,
+            12855
+          ]
+        },
+        {
+          "id": "530300",
+          "value": [
+            272,
+            35,
+            65,
+            26323
+          ]
+        },
+        {
+          "id": "530400",
+          "value": [
+            182,
+            83,
+            63,
+            4973
+          ]
+        },
+        {
+          "id": "530500",
+          "value": [
+            40,
+            100,
+            57,
+            24117
+          ]
+        },
+        {
+          "id": "530600",
+          "value": [
+            294,
+            7,
+            23,
+            28477
+          ]
+        },
+        {
+          "id": "530700",
+          "value": [
+            284,
+            91,
+            67,
+            16867
+          ]
+        },
+        {
+          "id": "530800",
+          "value": [
+            150,
+            48,
+            92,
+            12655
+          ]
+        },
+        {
+          "id": "530900",
+          "value": [
+            294,
+            55,
+            91,
+            2951
+          ]
+        },
+        {
+          "id": "532300",
+          "value": [
+            84,
+            51,
+            91,
+            24103
+          ]
+        },
+        {
+          "id": "532500",
+          "value": [
+            40,
+            83,
+            62,
+            21221
+          ]
+        },
+        {
+          "id": "532600",
+          "value": [
+            356,
+            40,
+            66,
+            24844
+          ]
+        },
+        {
+          "id": "532800",
+          "value": [
+            256,
+            2,
+            54,
+            18292
+          ]
+        },
+        {
+          "id": "532900",
+          "value": [
+            61,
+            98,
+            86,
+            25425
+          ]
+        },
+        {
+          "id": "533100",
+          "value": [
+            69,
+            69,
+            79,
+            6811
+          ]
+        },
+        {
+          "id": "533300",
+          "value": [
+            172,
+            37,
+            15,
+            6007
+          ]
+        },
+        {
+          "id": "533400",
+          "value": [
+            158,
+            60,
+            23,
+            14063
+          ]
+        }
+      ]
+    },
+    "mapTopCardList": [
+      {
+        "key": "0",
+        "name": "5G专网客户数",
+        "value": 12493,
+        "img": "CIcon-Avatar",
+        "color": "rgba(46, 196, 120, 1)",
+        "backgroundColor": "linear-gradient(360deg, rgba(46, 196, 120, 0.64) 0%, rgba(46, 196, 120, 0.32) 100%)"
+      },
+      {
+        "key": "1",
+        "name": "专用DNN数",
+        "value": 12493,
+        "img": "CIcon-Sound-One",
+        "color": "rgba(17, 174, 220, 1)",
+        "backgroundColor": "linear-gradient(360deg, rgba(17, 174, 220, 0.64) 0%, rgba(17, 174, 220, 0.32) 100%)"
+      },
+      {
+        "key": "2",
+        "name": "专用开片数",
+        "value": 12493,
+        "img": "CIcon-Card-Two",
+        "color": "rgba(255, 170, 6, 1)",
+        "backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+      },
+      {
+        "key": "3",
+        "name": "专用开卡数",
+        "value": 12493,
+        "img": "CIcon-Sim-Card",
+        "color": "rgba(2, 106, 255, 1)",
+        "backgroundColor": "linear-gradient(360deg, rgba(2, 106, 255, 0.64) 0%, rgba(2, 106, 255, 0.32) 100%)"
+      }
+    ],
+    "province1": {
+      "iconShow": false,
+      "ranking": " 排名",
+      "province": "省份",
+      "warn": "客户数",
+      "info": [
+        {
+          "rank": 1,
+          "city": "北京",
+          "process": 93,
+          "num": 9546,
+          "color": "#A26E06"
+        },
+        {
+          "rank": 2,
+          "city": "上海",
+          "process": 87,
+          "num": 9100,
+          "color": "#1d7d55"
+        },
+        {
+          "rank": 3,
+          "city": "广东",
+          "process": 83,
+          "num": 8894,
+          "color": "#2395e3"
+        },
+        {
+          "rank": 4,
+          "city": "浙江",
+          "process": 80,
+          "num": 8088,
+          "color": "#87d6e6"
+        }
+      ]
+    },
+    "province2": {
+      "iconShow": false,
+      "ranking": " 排名",
+      "province": "省份",
+      "warn": "工单数",
+      "info": [
+        {
+          "rank": 5,
+          "city": "江苏",
+          "process": 75,
+          "num": 7695,
+          "color": "#6e89a4"
+        },
+        {
+          "rank": 6,
+          "city": "四川",
+          "process": 70,
+          "num": 7300,
+          "color": "#6e89a4"
+        },
+        {
+          "rank": 7,
+          "city": "山西",
+          "process": 66,
+          "num": 6789,
+          "color": "#6e89a4"
+        },
+        {
+          "rank": 8,
+          "city": "天津",
+          "process": 60,
+          "num": 6000,
+          "color": "#6e89a4"
+        }
+      ]
+    },
+    "province": [
+      {
+        "iconShow": false,
+        "ranking": " 排名",
+        "province": "省份",
+        "warn": "告警数",
+        "provinces": "北京",
+        "prov": "上海",
+        "pros": "广东",
+        "provins": "浙江",
+        "one": 93,
+        "two": 85,
+        "three": 80,
+        "four": 73,
+        "numberone": 5888,
+        "numbertwo": 5625,
+        "numberthree": 4789,
+        "numberfour": 4011
+      },
+      {
+        "iconShow": false,
+        "ranking": " 排名",
+        "province": "省份",
+        "warn": "告警数",
+        "provinces": "山西",
+        "prov": "山东",
+        "pros": "江苏",
+        "provins": "河南",
+        "one": 66,
+        "two": 59,
+        "three": 50,
+        "four": 42,
+        "numberone": 3888,
+        "numbertwo": 3645,
+        "numberthree": 3000,
+        "numberfour": 2556
+      }
+    ],
+    "industry": [
+      {
+        "name": "制造业",
+        "num": 1056,
+        "effect": 15,
+        "line": 19
+      },
+      {
+        "name": "化工",
+        "num": 1466,
+        "effect": 2,
+        "line": 66
+      },
+      {
+        "name": "电力",
+        "num": 842,
+        "effect": 5,
+        "line": 44
+      },
+      {
+        "name": "农业",
+        "num": 2525,
+        "effect": 18,
+        "line": 83
+      },
+      {
+        "name": "邮政",
+        "num": 344,
+        "effect": 22,
+        "line": 23
+      },
+      {
+        "name": "其他",
+        "num": 932,
+        "effect": 16,
+        "line": 37
+      }
+    ],
+    "ranking": [
+      {
+        "rank": 1,
+        "title": "中国工商银行",
+        "num": 90020
+      },
+      {
+        "rank": 2,
+        "title": "中国建设银行",
+        "num": 83446
+      },
+      {
+        "rank": 3,
+        "title": "中国铁路",
+        "num": 73536
+      },
+      {
+        "rank": 4,
+        "title": "中国工商银行",
+        "num": 50020
+      },
+      {
+        "rank": 5,
+        "title": "中国建设银行",
+        "num": 49920
+      },
+      {
+        "rank": 6,
+        "title": "中国铁路工程集团有限公司",
+        "num": 40066
+      },
+      {
+        "rank": 7,
+        "title": "华润集团优先公告",
+        "num": 38473
+      },
+      {
+        "rank": 8,
+        "title": "中国农业银行",
+        "num": 32672
+      },
+      {
+        "rank": 9,
+        "title": "中国邮政银行",
+        "num": 31004
+      },
+      {
+        "rank": 10,
+        "title": "上海浦发银行",
+        "num": 30654
+      },
+      {
+        "rank": 11,
+        "title": "中国同煤集团",
+        "num": 29555
+      },
+      {
+        "rank": 12,
+        "title": "中国光大证券",
+        "num": 28555
+      },
+      {
+        "rank": 13,
+        "title": "中国广大银行",
+        "num": 27555
+      },
+      {
+        "rank": 14,
+        "title": "中国广大银行",
+        "num": 26555
+      },
+      {
+        "rank": 15,
+        "title": "中国广大银行",
+        "num": 25555
+      },
+      {
+        "rank": 16,
+        "title": "中国广大银行",
+        "num": 24555
+      },
+      {
+        "rank": 17,
+        "title": "中国广大银行",
+        "num": 23555
+      },
+      {
+        "rank": 18,
+        "title": "中国广大银行",
+        "num": 22555
+      },
+      {
+        "rank": 19,
+        "title": "中国广大银行",
+        "num": 21555
+      },
+      {
+        "rank": 20,
+        "title": "中国广大银行",
+        "num": 20555
+      },
+      {
+        "rank": 21,
+        "title": "中国广大银行",
+        "num": 19555
+      },
+      {
+        "rank": 22,
+        "title": "中国广大银行",
+        "num": 18555
+      },
+      {
+        "rank": 23,
+        "title": "中国广大银行",
+        "num": 17555
+      },
+      {
+        "rank": 24,
+        "title": "中国广大银行",
+        "num": 16555
+      },
+      {
+        "rank": 25,
+        "title": "中国广大银行",
+        "num": 15555
+      },
+      {
+        "rank": 26,
+        "title": "中国广大银行",
+        "num": 14555
+      }
+    ],
+    "choice":[
+      {
+        "name": "选择省份",
+        "options": [
+          {
+            "value": "hb",
+            "label": "河北"
+          },
+          {
+            "value": "hn",
+            "label": "河南"
+          }
+        ]
+      },
+      {
+        "name": "选择地市",
+        "options": [
+          {
+            "value": "bj",
+            "label": "北京"
+          },
+          {
+            "value": "tj",
+            "label": "天津"
+          }
+        ]
+      },
+      {
+        "name": "选择行业",
+        "options": [
+          {
+            "value": "fw",
+            "label": "服务"
+          },
+          {
+            "value": "gr",
+            "label": "工人"
+          }
+        ]
+      },
+      {
+        "name": "是否集团直营",
+        "options": [
+          {
+            "value": "0",
+            "label": "是"
+          },
+          {
+            "value": "1",
+            "label": "否"
+          }
+        ]
+      },
+      {
+        "name": "客户级别",
+        "options": [
+          {
+            "value": "one",
+            "label": "一级"
+          },
+          {
+            "value": "two",
+            "label": "二级"
+          }
+        ]
+      },
+      {
+        "name": "客户编号、名称",
+        "options": [
+          {
+            "value": "bh1",
+            "label": "编号1"
+          },
+          {
+            "value": "bh2",
+            "label": "编号2"
+          }
+        ]
+      }
+    ],
+    "card":[
+      {"number":53645,"title":"勘察工单"},
+      {"number":2423,"title":"投诉工单"},
+      {"number":32535,"title":"开工工单"},
+      {"number":2144,"title":"DNN"},
+      {"number":3245,"title":"开卡数"},
+      {"number":3253,"title":"切片数"},
+      {"number":7458,"title":"上下行流量"},
+      {"number":6778,"title":"告警影响客户数"}
+    ],
+    "cardIot":[
+      {"number":666,"title":"开卡数"},
+      {"number":441,"title":"设置告警"},
+      {"number":563,"title":"性能告警"},
+      {"number":867,"title":"故障工单"},
+      {"number":567,"title":"投诉工单"}
+    ],
+    "cardNet":[
+      {"number":53645,"title":"勘察工单"},
+      {"number":2423,"title":"投诉工单"},
+      {"number":32535,"title":"开工工单"},
+      {"number":2144,"title":"DNN"}
+    ],
+    "cardGroup":[
+      {"number":53645,"title":"勘察工单"},
+      {"number":2423,"title":"投诉工单"},
+      {"number":32535,"title":"开工工单"},
+      {"number":2144,"title":"DNN"}
+    ],
+    "cardVideo":[
+      {"number":53645,"title":"勘察工单"},
+      {"number":2423,"title":"投诉工单"},
+      {"number":32535,"title":"开工工单"},
+      {"number":2144,"title":"DNN"},
+      {"number":3245,"title":"开卡数"},
+      {"number":3253,"title":"切片数"}
+    ],
+    "cardCamera":[
+      {"number":53645,"title":"勘察工单"},
+      {"number":2423,"title":"投诉工单"}
+    ],
+    "customer":{
+      "customerinfo":[
+        {"name":"客户名称","title":"云南神火铝业"},
+        {"name":"所属行业","title":"制造"},
+        {"name":"客户服务模式","title":"优享"},
+        {"name":"客户保障级别","title":"A"},
+        {"name":"业务涵盖省份数量","title":"8"},
+        {"name":"业务数量","title":"5"}
+      ],
+      "customerData":[
+        {"lable":1,"name":"云南神火铝业","num":"87118237360","province":"云南","city":"昆明","couny":"阿拉","industry":"制造","leaval":"A","model":"优享"},
+        {"lable":2,"name":"西南铝业","num":"8713109035","province":"重庆","city":"重庆","couny":"阿拉","industry":"制造","leaval":"C","model":"优享"},
+        {"lable":3,"name":"贵州铝业","num":"87118237362","province":"贵州","city":"贵阳","couny":"阿拉","industry":"制造","leaval":"A","model":"优享"},
+        {"lable":4,"name":"青海铝业","num":"8711100133","province":"青海","city":"昆明","couny":"阿拉","industry":"制造","leaval":"A","model":"优享"},
+        {"lable":5,"name":"兰州铝业","num":"2802101062","province":"兰州","city":"昆明","couny":"阿拉","industry":"制造","leaval":"A","model":"优享"},
+        {"lable":6,"name":"河南铝业","num":"87118237365","province":"河南","city":"昆明","couny":"阿拉","industry":"制造","leaval":"A","model":"优享"},
+        {"lable":7,"name":"包头铝业","num":"871110578","province":"内蒙","city":"昆明","couny":"阿拉","industry":"制造","leaval":"A","model":"优享"},
+        {"lable":8,"name":"西北铝业","num":"2802101078","province":"兰州","city":"昆明","couny":"阿拉","industry":"制造","leaval":"A","model":"优享"},
+        {"lable":9,"name":"华西铝业","num":"87118237368","province":"江苏","city":"昆明","couny":"阿拉","industry":"制造","leaval":"A","model":"优享"},
+        {"lable":10,"name":"渤海铝业","num":"8711100183","province":"河北","city":"昆明","couny":"阿拉","industry":"制造","leaval":"A","model":"优享"},
+        {"lable":11,"name":"闽铝铝业","num":"8711100184","province":"福建","city":"昆明","couny":"阿拉","industry":"制造","leaval":"C","model":"优享"},
+        {"lable":12,"name":"佛山铝业","num":"8711100185","province":"广东","city":"昆明","couny":"阿拉","industry":"制造","leaval":"D","model":"优享"},
+        {"lable":13,"name":"坚美铝业","num":"8711100186","province":"广东","city":"昆明","couny":"阿拉","industry":"制造","leaval":"C","model":"优享"}
+      ]
+    }
+  }
+}

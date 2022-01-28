@@ -1,0 +1,28 @@
+{
+  "data":{
+    "province1":{
+      "iconShow": false,
+      "ranking": " 排名",
+      "province": "市",
+      "warn": "客户数",
+      "info":[
+        {"rank":1,"city":"昆明","process":93,"num":9546,"color":"#A26E06"},
+        {"rank":2,"city":"曲靖","process":77,"num":9100,"color":"#1d7d55"},
+        {"rank":3,"city":"玉溪","process":66,"num":8894,"color":"#2395e3"},
+        {"rank":4,"city":"邵通","process":50,"num":8088,"color":"#87d6e6"}
+      ]
+    },
+    "province2":{
+      "iconShow": false,
+      "ranking": " 排名",
+      "province": "市",
+      "warn": "工单数",
+      "info":[
+        {"rank":5,"city":"保山","process":45,"num":7695,"color":"#6e89a4"},
+        {"rank":6,"city":"丽江","process":40,"num":7300,"color":"#6e89a4"},
+        {"rank":7,"city":"普洱","process":30,"num":6789,"color":"#6e89a4"},
+        {"rank":8,"city":"临沧","process":20,"num":6000,"color":"#6e89a4"}
+      ]
+    }
+  }
+}

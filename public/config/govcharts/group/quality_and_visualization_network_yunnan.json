@@ -1,0 +1,6 @@
+[
+  {"name": "PON告警数", "num": 154,"effect": 5,"line": 23},
+  {"name": "PTN告警数", "num": 89, "effect": 5, "line": 12},
+  {"name": "OTN告警数", "num": 329, "effect": 5, "line": 18},
+  {"name": "影响客户数", "num": 103, "effect": null, "line": null}
+]

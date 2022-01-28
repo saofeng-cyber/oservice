@@ -1,0 +1,26 @@
+[
+  {
+    "key": "0",
+    "name": "WIFI弱覆盖家庭量(万)",
+    "value": 12.670,
+    "img": "CIcon-Avatar",
+    "color": "rgba(46, 196, 120, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(46, 196, 120, 0.64) 0%, rgba(46, 196, 120, 0.32) 100%)"
+  },
+  {
+    "key": "1",
+    "name": "网关下行流量平均值(GB)",
+    "value": 32351,
+    "img": "CIcon-Sound-One",
+    "color": "rgba(17, 174, 220, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(17, 174, 220, 0.64) 0%, rgba(17, 174, 220, 0.32) 100%)"
+  },
+  {
+    "key": "2",
+    "name": "接收光功率达标率",
+    "value": 867.13,
+    "img": "CIcon-Card-Two",
+    "color": "rgba(255, 170, 6, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+  }
+]

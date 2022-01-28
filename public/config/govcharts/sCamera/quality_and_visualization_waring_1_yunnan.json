@@ -1,0 +1,36 @@
+{
+			"iconShow": false,
+			"ranking": " 排名",
+			"province": "地市",
+			"warn": "客户数",
+			"info": [
+				{
+					"rank": 1,
+					"city": "昆明",
+					"process": 97,
+					"num": 97,
+					"color": "#A26E06"
+				},
+				{
+					"rank": 2,
+					"city": "大理",
+					"process": 94,
+					"num": 94,
+					"color": "#1d7d55"
+				},
+				{
+					"rank": 3,
+					"city": "丽江",
+					"process": 92,
+					"num": 92,
+					"color": "#2395e3"
+				},
+				{
+					"rank": 4,
+					"city": "昭通",
+					"process": 88,
+					"num": 88,
+					"color": "#87d6e6"
+				}
+			]
+		}

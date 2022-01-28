@@ -1,0 +1,6 @@
+[
+  {"name": "无线网", "num": 65,"effect": 76,"line": 83},
+  {"name": "传输网", "num": 97, "effect": 87, "line": 65},
+  {"name": "核心网", "num": 75, "effect": 86, "line": 87},
+  {"name": "影响客户数", "num": 98, "effect": null, "line": null}
+]

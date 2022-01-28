@@ -1,0 +1,36 @@
+{
+			"iconShow": false,
+			"ranking": " 排名",
+			"province": "省份",
+			"warn": "工单数",
+			"info": [
+				{
+					"rank": 5,
+					"city": "文山",
+					"process": 85,
+					"num": 85,
+					"color": "#6e89a4"
+				},
+				{
+					"rank": 6,
+					"city": "曲靖",
+					"process": 61,
+					"num": 61,
+					"color": "#6e89a4"
+				},
+				{
+					"rank": 7,
+					"city": "临沧",
+					"process": 54,
+					"num": 54,
+					"color": "#6e89a4"
+				},
+				{
+					"rank": 8,
+					"city": "西双版纳",
+					"process": 50,
+					"num": 50,
+					"color": "#6e89a4"
+				}
+			]
+		}

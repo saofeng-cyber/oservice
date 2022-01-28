@@ -1,0 +1,42 @@
+[
+  {
+    "key": "0",
+    "name": "PDP激活成功率",
+    "value": 68.00,
+    "img": "CIcon-Avatar",
+    "color": "rgba(46, 196, 120, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(46, 196, 120, 0.64) 0%, rgba(46, 196, 120, 0.32) 100%)"
+  },
+  {
+    "key": "1",
+    "name": "在线用户数",
+    "value": 2345,
+    "img": "CIcon-Sound-One",
+    "color": "rgba(17, 174, 220, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(17, 174, 220, 0.64) 0%, rgba(17, 174, 220, 0.32) 100%)"
+  },
+  {
+    "key": "2",
+    "name": "IP地址池利用率",
+    "value": 72.65,
+    "img": "CIcon-Card-Two",
+    "color": "rgba(255, 170, 6, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+  },
+  {
+    "key": "3",
+    "name": "上行平均速率",
+    "value": 672.51,
+    "img": "CIcon-Card-Two",
+    "color": "rgba(255, 170, 6, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+  },
+  {
+    "key": "4",
+    "name": "下行平均速率",
+    "value": 463.15,
+    "img": "CIcon-Card-Two",
+    "color": "rgba(255, 170, 6, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+  }
+]

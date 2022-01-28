@@ -1,0 +1,1098 @@
+{
+	"data": {
+		"mapTopCardList": [
+			{
+				"key": "0",
+				"name": "业务可用率",
+				"value": "89.99%",
+				"img": "CIcon-Avatar",
+				"color": "rgba(46, 196, 120, 1)",
+				"backgroundColor": "linear-gradient(360deg, rgba(46, 196, 120, 0.64) 0%, rgba(46, 196, 120, 0.32) 100%)"
+			},
+			{
+				"key": "1",
+				"name": "上行流量",
+				"value": "242.4",
+				"img": "CIcon-Card-Two",
+				"color": "rgba(72, 214, 255, 1)",
+				"backgroundColor": "linear-gradient(360deg, rgba(17, 174, 220, 0.64) 0%, rgba(17, 174, 220, 0.32) 100%)"
+			},
+			{
+				"key": "2",
+				"name": "下行流量",
+				"value": "529.8",
+				"img": "CIcon-Sim-Card",
+				"color": "rgba(255, 197, 84, 1)",
+				"backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+			},
+			{
+				"key": "3",
+				"name": "勘察及时率",
+				"value": "29.7%",
+				"img": "CIcon-Sound-One",
+				"color": "rgba(224, 240, 255, 1)",
+				"backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+			},
+			{
+				"key": "4",
+				"name": "开通及时率",
+				"value": "15.5%",
+				"img": "CIcon-Avatar",
+				"color": "rgba(38, 167, 255, 1)",
+				"backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+			},
+			{
+				"key": "5",
+				"name": "故障处理及时率",
+				"value": "89.3%",
+				"img": "CIcon-Card-Two",
+				"color": "rgba(178, 126, 255, 1)",
+				"backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+			},
+			{
+				"key": "6",
+				"name": "投诉处理及时率",
+				"value": "95.9%",
+				"img": "CIcon-Sim-Card",
+				"color": "rgba(255, 76, 80, 1)",
+				"backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+			}
+		],
+		"province1": {
+			"iconShow": false,
+			"ranking": " 排名",
+			"province": "省份",
+			"warn": "客户数",
+			"info": [
+				{
+					"rank": 1,
+					"city": "北京",
+					"process": 97.17,
+					"num": 97.17,
+					"color": "#A26E06"
+				},
+				{
+					"rank": 2,
+					"city": "上海",
+					"process": 94.92,
+					"num": 94.92,
+					"color": "#1d7d55"
+				},
+				{
+					"rank": 3,
+					"city": "广东",
+					"process": 92.2,
+					"num": 92.2,
+					"color": "#2395e3"
+				},
+				{
+					"rank": 4,
+					"city": "浙江",
+					"process": 88.2,
+					"num": 88.2,
+					"color": "#87d6e6"
+				}
+			]
+		},
+		"province2": {
+			"iconShow": false,
+			"ranking": " 排名",
+			"province": "省份",
+			"warn": "工单数",
+			"info": [
+				{
+					"rank": 5,
+					"city": "江苏",
+					"process": 85.99,
+					"num": 85.99,
+					"color": "#6e89a4"
+				},
+				{
+					"rank": 6,
+					"city": "四川",
+					"process": 61.58,
+					"num": 61.58,
+					"color": "#6e89a4"
+				},
+				{
+					"rank": 7,
+					"city": "山西",
+					"process": 54.19,
+					"num": 54.19,
+					"color": "#6e89a4"
+				},
+				{
+					"rank": 8,
+					"city": "天津",
+					"process": 50.5,
+					"num": 50.5,
+					"color": "#6e89a4"
+				}
+			]
+		},
+		"mapData": {
+			"names": [
+				"业务可用率",
+				"上行流量",
+				"下行流量",
+				"勘察及时率",
+				"开通及时率",
+				"故障处理及时率",
+				"投诉处理及时率"
+			],
+			"maxValues": [
+				100,
+				100,
+				300,
+				600,
+				100,
+				100,
+				100
+			],
+			"info": [
+				{
+					"id": "xin_jiang",
+					"value": [
+						91,
+						73,
+						142,
+						88,
+						88
+					]
+				},
+				{
+					"id": "xi_zang",
+					"value": [
+						36,
+						79,
+						120,
+						220,
+						88,
+						99
+					]
+				},
+				{
+					"id": "nei_meng_gu",
+					"value": [
+						76,
+						82,
+						144,
+						234,
+						87,
+						88
+					]
+				},
+				{
+					"id": "qing_hai",
+					"value": [
+						10,
+						54,
+						140,
+						245,
+						98,
+						77
+					]
+				},
+				{
+					"id": "si_chuan",
+					"value": [
+						19,
+						53,
+						170,
+						273,
+						87,
+						66
+					]
+				},
+				{
+					"id": "hei_long_jiang",
+					"value": [
+						34,
+						12,
+						18,
+						23,
+						77,
+						36
+					]
+				},
+				{
+					"id": "gan_su",
+					"value": [
+						25,
+						21,
+						193,
+						330,
+						77,
+						87
+					]
+				},
+				{
+					"id": "yun_nan",
+					"value": [
+						72,
+						91,
+						137,
+						238,
+						87,
+						88
+					]
+				},
+				{
+					"id": "guang_xi",
+					"value": [
+						49,
+						2,
+						141,
+						238,
+						88,
+						87
+					]
+				},
+				{
+					"id": "hu_nan",
+					"value": [
+						36,
+						55,
+						111,
+						238,
+						87,
+						77
+					]
+				},
+				{
+					"id": "shan_xi_1",
+					"value": [
+						52,
+						61,
+						151,
+						251,
+						87,
+						88
+					]
+				},
+				{
+					"id": "guang_dong",
+					"value": [
+						98,
+						74,
+						18,
+						110,
+						87,
+						89
+					]
+				},
+				{
+					"id": "ji_lin",
+					"value": [
+						25,
+						21,
+						176,
+						276,
+						87,
+						69
+					]
+				},
+				{
+					"id": "he_bei",
+					"value": [
+						16,
+						51,
+						183,
+						287,
+						87,
+						77
+					]
+				},
+				{
+					"id": "hu_bei",
+					"value": [
+						58,
+						77,
+						174,
+						273,
+						77,
+						88
+					]
+				},
+				{
+					"id": "gui_zhou",
+					"value": [
+						64,
+						62,
+						170,
+						277,
+						87,
+						77
+					]
+				},
+				{
+					"id": "shan_dong",
+					"value": [
+						77,
+						16,
+						197,
+						288,
+						83,
+						88
+					]
+				},
+				{
+					"id": "jiang_xi",
+					"value": [
+						97,
+						87,
+						149,
+						276,
+						87,
+						88
+					]
+				},
+				{
+					"id": "he_nan",
+					"value": [
+						63,
+						86,
+						19,
+						223,
+						87,
+						88
+					]
+				},
+				{
+					"id": "liao_ning",
+					"value": [
+						79,
+						2,
+						134,
+						322,
+						87,
+						88
+					]
+				},
+				{
+					"id": "shan_xi_2",
+					"value": [
+						92,
+						45,
+						184,
+						287,
+						87,
+						88
+					]
+				},
+				{
+					"id": "an_hui",
+					"value": [
+						84,
+						29,
+						188,
+						288,
+						87,
+						88
+					]
+				},
+				{
+					"id": "fu_jian",
+					"value": [
+						22,
+						38,
+						198,
+						283,
+						87,
+						88
+					]
+				},
+				{
+					"id": "zhe_jiang",
+					"value": [
+						94,
+						29,
+						18,
+						288,
+						87,
+						88
+					]
+				},
+				{
+					"id": "jiang_su",
+					"value": [
+						19,
+						12,
+						137,
+						238,
+						87,
+						77
+					]
+				},
+				{
+					"id": "chong_qing",
+					"value": [
+						63,
+						39,
+						15,
+						233,
+						87,
+						66
+					]
+				},
+				{
+					"id": "ning_xia",
+					"value": [
+						53,
+						99,
+						159,
+						258,
+						87,
+						88
+					]
+				},
+				{
+					"id": "hai_nan",
+					"value": [
+						35,
+						22,
+						125,
+						255,
+						87,
+						88
+					]
+				},
+				{
+					"id": "tai_wan",
+					"value": [
+						10,
+						70,
+						60,
+						160,
+						87,
+						96
+					]
+				},
+				{
+					"id": "bei_jing",
+					"value": [
+						96,
+						75,
+						18,
+						288,
+						87,
+						88
+					]
+				},
+				{
+					"id": "tian_jin",
+					"value": [
+						88,
+						18,
+						173,
+						273,
+						87,
+						99
+					]
+				},
+				{
+					"id": "shang_hai",
+					"value": [
+						51,
+						11,
+						165,
+						326,
+						87,
+						88
+					]
+				},
+				{
+					"id": "xiang_gang",
+					"value": [
+						27,
+						76,
+						163,
+						278,
+						87,
+						88
+					]
+				},
+				{
+					"id": "ao_men",
+					"value": [
+						20,
+						10,
+						125,
+						255,
+						87,
+						88
+					]
+				}
+			]
+		},
+		"mapData2": {
+			"names": [
+				"业务可用率",
+				"上行流量",
+				"下行流量",
+				"勘察及时率",
+				"开通及时率",
+				"故障处理及时率",
+				"投诉处理及时率"
+			],
+			"maxValues": [
+				100,
+				100,
+				300,
+				600,
+				100,
+				100,
+				100
+			],
+			"info": [
+				{
+					"id": "530100",
+					"value": [
+						37,
+						46,
+						168,
+						254,
+						64,
+						77
+					]
+				},
+				{
+					"id": "530300",
+					"value": [
+						35,
+						65,
+						122,
+						222,
+						88,
+						98
+					]
+				},
+				{
+					"id": "530400",
+					"value": [
+						83,
+						63,
+						173,
+						273,
+						89,
+						67
+					]
+				},
+				{
+					"id": "530500",
+					"value": [
+						40,
+						100,
+						157,
+						257,
+						88,
+						98
+					]
+				},
+				{
+					"id": "530600",
+					"value": [
+						94,
+						7,
+						123,
+						233,
+						87,
+						98
+					]
+				},
+				{
+					"id": "530700",
+					"value": [
+						28,
+						91,
+						167,
+						267,
+						89,
+						87
+					]
+				},
+				{
+					"id": "530800",
+					"value": [
+						48,
+						92,
+						155,
+						255,
+						77,
+						98
+					]
+				},
+				{
+					"id": "530900",
+					"value": [
+						94,
+						55,
+						191,
+						293,
+						88,
+						55
+					]
+				},
+				{
+					"id": "532300",
+					"value": [
+						84,
+						51,
+						191,
+						292,
+						98,
+						96
+					]
+				},
+				{
+					"id": "532500",
+					"value": [
+						40,
+						83,
+						162,
+						275,
+						83,
+						78
+					]
+				},
+				{
+					"id": "532600",
+					"value": [
+						36,
+						40,
+						166,
+						287,
+						99,
+						78
+					]
+				},
+				{
+					"id": "532800",
+					"value": [
+						56,
+						2,
+						154,
+						244,
+						95,
+						87
+					]
+				},
+				{
+					"id": "532900",
+					"value": [
+						61,
+						98,
+						186,
+						287,
+						98,
+						67
+					]
+				},
+				{
+					"id": "533100",
+					"value": [
+						69,
+						69,
+						179,
+						277,
+						98,
+						67
+					]
+				},
+				{
+					"id": "533300",
+					"value": [
+						72,
+						37,
+						115,
+						255,
+						77,
+						98
+					]
+				},
+				{
+					"id": "533400",
+					"value": [
+						18,
+						60,
+						123,
+						233,
+						87,
+						88
+					]
+				}
+			]
+		},
+		"analysisList": {
+			"time": "2021",
+			"tableData1": [
+				{
+					"ranking": "1",
+					"province": "北京",
+					"open": "99%",
+					"reliable": "97%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "2",
+					"province": "山东",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "3",
+					"province": "上海",
+					"open": "99%",
+					"reliable": "91%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "4",
+					"province": "山西",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "5",
+					"province": "河南",
+					"open": "99%",
+					"reliable": "96%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "6",
+					"province": "河北",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "7",
+					"province": "广西",
+					"open": "98%",
+					"reliable": "94%",
+					"handle": "91%"
+				},
+				{
+					"ranking": "8",
+					"province": "广东",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "9",
+					"province": "四川",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "10",
+					"province": "重庆",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "11",
+					"province": "新疆",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "12",
+					"province": "西藏",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "13",
+					"province": "青海",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "14",
+					"province": "浙江",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				}
+			],
+			"tableData2": [
+				{
+					"ranking": "1",
+					"province": "云南",
+					"open": "99%",
+					"reliable": "97%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "2",
+					"province": "山东",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "3",
+					"province": "上海",
+					"open": "99%",
+					"reliable": "91%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "4",
+					"province": "山西",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "5",
+					"province": "河南",
+					"open": "99%",
+					"reliable": "96%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "6",
+					"province": "河北",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				}
+			],
+			"tableData3": [
+				{
+					"ranking": "1",
+					"province": "澳门",
+					"open": "99%",
+					"reliable": "97%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "2",
+					"province": "山东",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "3",
+					"province": "上海",
+					"open": "99%",
+					"reliable": "91%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "4",
+					"province": "山西",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "5",
+					"province": "河南",
+					"open": "99%",
+					"reliable": "96%",
+					"handle": "90%"
+				},
+				{
+					"ranking": "6",
+					"province": "河北",
+					"open": "99%",
+					"reliable": "94%",
+					"handle": "90%"
+				}
+			]
+		},
+		"tableData_yn": [
+			{
+				"ranking": "1",
+				"province": "昆明",
+				"open": "99%",
+				"reliable": "99%",
+				"handle": "90%"
+			},
+			{
+				"ranking": "2",
+				"province": "大理",
+				"open": "99%",
+				"reliable": "88%",
+				"handle": "90%"
+			},
+			{
+				"ranking": "3",
+				"province": "丽江",
+				"open": "77%",
+				"reliable": "91%",
+				"handle": "90%"
+			},
+			{
+				"ranking": "4",
+				"province": "西双版纳",
+				"open": "55%",
+				"reliable": "94%",
+				"handle": "90%"
+			},
+			{
+				"ranking": "5",
+				"province": "文山",
+				"open": "99%",
+				"reliable": "96%",
+				"handle": "90%"
+			},
+			{
+				"ranking": "6",
+				"province": "临沧",
+				"open": "33%",
+				"reliable": "55%",
+				"handle": "88%"
+			},{
+				"ranking": "7",
+				"province": "玉溪",
+				"open": "33%",
+				"reliable": "55%",
+				"handle": "88%"
+			},{
+				"ranking": "8",
+				"province": "普洱",
+				"open": "33%",
+				"reliable": "55%",
+				"handle": "88%"
+			},{
+				"ranking": "9",
+				"province": "德宏",
+				"open": "33%",
+				"reliable": "55%",
+				"handle": "88%"
+			},{
+				"ranking": "10",
+				"province": "怒江",
+				"open": "33%",
+				"reliable": "55%",
+				"handle": "88%"
+			},{
+				"ranking": "11",
+				"province": "迪庆",
+				"open": "33%",
+				"reliable": "55%",
+				"handle": "88%"
+			}
+		],
+		"trendLine": [
+			{
+				"name": "客户数",
+				"data": [
+					551,
+					961,
+					662,
+					592,
+					462,
+					363,
+					782
+				],
+				"xData": [
+					"09-01",
+					"09-05",
+					"09-10",
+					"09-15",
+					"09-20",
+					"09-25",
+					"09-30"
+				],
+				"yName": "单位 个"
+			}
+		],
+		"trendLine2": [
+			{
+				"name": "客户数",
+				"data": [
+					691,
+					951,
+					662,
+					582,
+					462,
+					323,
+					712
+				],
+				"xData": [
+					"09-01",
+					"09-05",
+					"09-10",
+					"09-15",
+					"09-20",
+					"09-25",
+					"09-30"
+				],
+				"yName": "单位 个"
+			}
+		],
+		"quarterLine": [
+			{
+				"name": [
+					"2021一期",
+					"2021二期",
+					"2021三期期"
+				],
+				"data": [
+					[
+						353,
+						71,
+						512,
+						552,
+						795,
+						383,
+						676
+					],
+					[
+						759,
+						755,
+						512,
+						532,
+						765,
+						383,
+						686
+					],
+					[
+						353,
+						711,
+						512,
+						522,
+						745,
+						383,
+						696
+					]
+				],
+				"xData": [
+					"09-01",
+					"09-05",
+					"09-10",
+					"09-15",
+					"09-20",
+					"09-25",
+					"09-30"
+				],
+				"yName": "单位 个"
+			}
+		],
+		"refBusiSatis": [
+			88,
+			99,
+			66
+		],
+		"refBusiSatis2": [
+			18,
+			59,
+			76
+		]
+	}
+}

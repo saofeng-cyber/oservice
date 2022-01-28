@@ -1,0 +1,34 @@
+[
+  {
+    "key": "0",
+    "name": "注册终端数",
+    "value": 1809,
+    "img": "CIcon-Avatar",
+    "color": "rgba(46, 196, 120, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(46, 196, 120, 0.64) 0%, rgba(46, 196, 120, 0.32) 100%)"
+  },
+  {
+    "key": "1",
+    "name": "在线终端数",
+    "value": 1590,
+    "img": "CIcon-Sound-One",
+    "color": "rgba(17, 174, 220, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(17, 174, 220, 0.64) 0%, rgba(17, 174, 220, 0.32) 100%)"
+  },
+  {
+    "key": "2",
+    "name": "在线率",
+    "value": "89%",
+    "img": "CIcon-Card-Two",
+    "color": "rgba(255, 170, 6, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+  },
+  {
+    "key": "3",
+    "name": "时延达标率",
+    "value": "94.2%",
+    "img": "CIcon-Sim-Card",
+    "color": "rgba(2, 106, 255, 1)",
+    "backgroundColor": "linear-gradient(360deg, rgba(2, 106, 255, 0.64) 0%, rgba(2, 106, 255, 0.32) 100%)"
+  }
+]

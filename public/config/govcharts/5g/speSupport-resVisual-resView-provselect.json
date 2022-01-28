@@ -1,0 +1,42 @@
+{
+  "customServiceData": {
+    "title": "客户服务模式",
+    "info": [
+      { "value": 98, "name": "优享", "color": "#0066FF", "url": "" },
+      { "value": 78, "name": "专享", "color": "#FFA800", "url": "" },
+      { "value": 82, "name": "尊享", "color": "#2EC478", "url": "" }
+    ]
+  },
+  "dnnData": {
+    "title": "DNN类型",
+    "info": [
+      { "value": 243, "name": "省内", "color": "#66E2FB", "url": "" },
+      { "value": 981, "name": "全国", "color": "#2EC478", "url": "" }
+    ]
+  },
+  "coreNetRes5GData": [
+    { "name": "共享型UPF数", "value": 23, "img": "UPF.png" },
+    { "name": "独享型UPF数", "value": 34, "img": "UPF.png" },
+    { "name": "AMF数", "value": 20, "img": "AMF.png" },
+    { "name": "SMF数", "value": 12, "img": "SMF.png" }
+  ],
+  "honorNetRes5GData": [
+    { "name": "独享型无线基站数", "value": 23, "img": "BaseStation.png" },
+    { "name": "独享型MEC资源数", "value": 56, "img": "MEC.png" }
+  ],
+  "warningRanking3Data": {
+    "ranking":"排名",
+    "province":"地市",
+    "warn":"客户数",
+    "Working":"工单数",
+    "value":["昆明","玉溪","保山","大理","曲靖","临沧","丽江","昭通"],
+    "nun":[95,90,85,81,74,65,60,58],
+    "number":["98","97","88","83","83","75","63","58"]
+  },
+  "lineChartData": [{
+    "name": "客户数",
+    "data": [68, 74, 70, 80, 86, 90, 87],
+    "xData": ["06-01", "06-05", "06-10", "06-15", "06-20", "06-25", "06-30"],
+    "yName": "单位： 个"
+  }]
+}

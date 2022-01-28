@@ -1,0 +1,294 @@
+{
+  "data":{
+    "mapData":{
+      "curCard": "5G专网客户数",
+      "names": ["在线用户数", "PDU会话数", "上行流量", "下行流量"],
+      "maxValues": [100, 600, 400, 400],
+      "info": [
+        {
+          "id": "110000",
+          "value": [98, 45, 76, 67]
+        },
+        {
+          "id": "370000",
+          "value": [34, 25, 57, 43]
+        },
+        {
+          "id": "350000",
+          "value": [12, 78, 99, 90]
+        },
+        {
+          "id": "360000",
+          "value": [98, 45, 76, 67]
+        },
+        {
+          "id": "380000",
+          "value": [98, 45, 76, 67]
+        },
+        {
+          "id": "390000",
+          "value": [98, 45, 76, 67]
+        },
+        {
+          "id": "310000",
+          "value": [98, 45, 76, 67]
+        }
+      ]
+    },
+    "mapTopCardList": [
+      {
+        "key": "0",
+        "name": "5G专网客户数",
+        "value": 12493,
+        "img": "CIcon-Avatar",
+        "color": "rgba(46, 196, 120, 1)",
+        "backgroundColor": "linear-gradient(360deg, rgba(46, 196, 120, 0.64) 0%, rgba(46, 196, 120, 0.32) 100%)"
+      },
+      {
+        "key": "1",
+        "name": "专用DNN数",
+        "value": 12493,
+        "img": "CIcon-Sound-One",
+        "color": "rgba(17, 174, 220, 1)",
+        "backgroundColor": "linear-gradient(360deg, rgba(17, 174, 220, 0.64) 0%, rgba(17, 174, 220, 0.32) 100%)"
+      },
+      {
+        "key": "2",
+        "name": "专用开片数",
+        "value": 12493,
+        "img": "CIcon-Card-Two",
+        "color": "rgba(255, 170, 6, 1)",
+        "backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)"
+      },
+      {
+        "key": "3",
+        "name": "专用开卡数",
+        "value": 12493,
+        "img": "CIcon-Sim-Card",
+        "color": "rgba(2, 106, 255, 1)",
+        "backgroundColor": "linear-gradient(360deg, rgba(2, 106, 255, 0.64) 0%, rgba(2, 106, 255, 0.32) 100%)"
+      }
+    ],
+
+    "mating":[
+      {
+        "matingId":1,
+        "matingIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}],
+        "matingTitle":"如实描述"
+      },
+      {
+        "matingId":2,
+        "matingIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}],
+        "matingTitle":"位置便利"
+      },
+      {
+        "matingId":3,
+        "matingIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}],
+        "matingTitle":"办公环境"
+      },
+      {
+        "matingId":4,
+        "matingIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}],
+        "matingTitle":"驿站服务 "
+      }
+    ],
+
+    "customer":[
+      {
+        "customerId":1,
+        "customerImg":"static/image/detail/list1.png",
+        "customeName":"新客户1",
+        "customeTime":"2020.01.01",
+        "customeCon":"这个驿站的办公环境非常的nice，很安静，并且有很多的绿色植物，办公疲惫的时候抬起头来看看绿色的叶子心情都会好很多。站主人也很好，每次有什么问题或者需求都会耐心的帮我解决，并且我在这里认识到了新的朋友，感觉志同道合，说不定以后也能成为一起合作的商业伙伴。"
+      },
+      {
+        "customerId":2,
+        "customerImg":"static/image/detail/list1.png",
+        "customeName":"新客户2",
+        "customeTime":"2020.01.01",
+        "customeCon":"驿站的办公设备很齐全，基本的办公需求都可以被满足。位置正好位于科技园区，交通也很便利。"
+      },
+      {
+        "customerId":3,
+        "customerImg":"static/image/detail/list1.png",
+        "customeName":"新客户3",
+        "customeTime":"2020.01.01",
+        "customeCon":"驿站的办公设备很齐全，基本的办公需求都可以被满足。位置正好位于科技园区，交通也很便利。"
+      }
+    ],
+
+    "maybeList":[
+      {
+        "collectId":1,
+        "collectImage":"static/image/postlist/list1.jpg",
+        "collectTitle":"英狮科技驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"499",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":2,
+        "collectImage":"static/image/postlist/list2.jpg",
+        "collectTitle":"音飞驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"620",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":3,
+        "collectImage":"static/image/postlist/list3.jpg",
+        "collectTitle":"林凤驿站",
+        "collectArea":"路演厅",
+        "collectFeatures":"喝茶、修生养性",
+        "collectNomney":"400",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      }
+
+    ],
+
+    "city":[
+      {
+        "cityId":1,
+        "cityArea":"北京"
+      },
+      {
+        "cityId":2,
+        "cityArea":"多伦多"
+      },
+      {
+        "cityId":3,
+        "cityArea":"河北"
+      },
+      {
+        "cityId":4,
+        "cityArea":"山西"
+      },
+      {
+        "cityId":5,
+        "cityArea":"吉林"
+      },
+      {
+        "cityId":6,
+        "cityArea":"江苏"
+      },
+      {
+        "cityId":7,
+        "cityArea":"河南"
+      }
+    ],
+
+    "collectListOne":[
+      {
+        "collectId":1,
+        "collectImage":"static/image/postlist/list1.jpg",
+        "collectTitle":"英狮科技驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"499",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":2,
+        "collectImage":"static/image/postlist/list2.jpg",
+        "collectTitle":"音飞驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"620",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":3,
+        "collectImage":"static/image/postlist/list3.jpg",
+        "collectTitle":"林凤驿站",
+        "collectArea":"路演厅",
+        "collectFeatures":"喝茶、修生养性",
+        "collectNomney":"400",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":4,
+        "collectImage":"static/image/postlist/list4.jpg",
+        "collectTitle":"英狮科技驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"499",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":5,
+        "collectImage":"static/image/postlist/list4.jpg",
+        "collectTitle":"英狮科技驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"499",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":6,
+        "collectImage":"static/image/postlist/list1.jpg",
+        "collectTitle":"英狮科技驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"499",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":7,
+        "collectImage":"static/image/postlist/list2.jpg",
+        "collectTitle":"音飞驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"620",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":8,
+        "collectImage":"static/image/postlist/list3.jpg",
+        "collectTitle":"林凤驿站",
+        "collectArea":"路演厅",
+        "collectFeatures":"喝茶、修生养性",
+        "collectNomney":"400",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":9,
+        "collectImage":"static/image/postlist/list4.jpg",
+        "collectTitle":"英狮科技驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"499",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":10,
+        "collectImage":"static/image/postlist/list1.jpg",
+        "collectTitle":"英狮科技驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"499",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":11,
+        "collectImage":"static/image/postlist/list2.jpg",
+        "collectTitle":"音飞驿站",
+        "collectArea":"工位、会议室",
+        "collectFeatures":"科技、教育",
+        "collectNomney":"620",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      },
+      {
+        "collectId":12,
+        "collectImage":"static/image/postlist/list3.jpg",
+        "collectTitle":"林凤驿站",
+        "collectArea":"路演厅",
+        "collectFeatures":"喝茶、修生养性",
+        "collectNomney":"400",
+        "collectIcon":[{"img":""},{"img":""},{"img":""},{"img":""},{"img":""}]
+      }
+
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+    "targetTypeName": [
+        {
+            "fieldName": "test1",
+            "label": "指标类型",
+            "order": true,
+            "width": "220px",
+            "sortable": true
+        },
+        {
+            "fieldName": "test2",
+            "label": "指标值",
+            "order": true,
+            "width": "220px",
+            "sortable": true
+        },
+        {
+            "fieldName": "test3",
+            "label": "指标状态",
+            "order": true,
+            "width": "220px",
+            "sortable": true
+        }
+    ],
+    "targetTypeVal": [
+        {
+            "number": {
+                "value": 1,
+                "style": "'color: #dfe4e9;'"
+            },
+            "name": {
+                "value": "Huzz",
+                "style": "'color: #dfe4e9; font-weight: 600;'"
+            },
+            "sex": {
+                "value": "A",
+                "style": "'color: #F9A400;border: 2px solid #F9A400;width: 20%;text-align: center;border-radius: 5px 5px 5px 5px;'"
+            },
+            "test1": {
+                "value": "平均PDU会话数",
+                "style": "color: #dfe4e9;"
+            },
+            "test2": {
+                "value": "3891",
+                "style": "color: #dfe4e9;"
+            },
+            "test3": {
+                "value": "ringChartList.value[0].status?\"显示\":\"隐藏\"",
+                "style": "'color: #dfe4e9;'"
+            }
+        },
+        {
+            "number": {
+                "value": 2,
+                "style": "color: #dfe4e9;"
+            },
+            "name": {
+                "value": "Huzz",
+                "style": "'color: #dfe4e9;font-weight: 600;'"
+            },
+            "sex": {
+                "value": "B",
+                "style": "color: #2DC277;border: 2px solid #2DC277;width: 20%;text-align: center;border-radius: 5px 5px 5px 5px;"
+            },
+            "test1": {
+                "value": "最大PDU会话数",
+                "style": "color: #dfe4e9;"
+            },
+            "test2": {
+                "value": "3891",
+                "style": "color: #dfe4e9;"
+            },
+            "test3": {
+                "value": "ringChartList.value[1].status?\"显示\":\"隐藏\"",
+                "style": "color: #dfe4e9;"
+            }
+        },
+        {
+            "number": {
+                "value": 3,
+                "style": "color: #dfe4e9;"
+            },
+            "name": {
+                "value": "Huzz",
+                "style": "color: #dfe4e9;font-weight: 600;"
+            },
+            "sex": {
+                "value": "C",
+                "style": "color: #2DC277;border: 2px solid #2DC277;width: 20%;text-align: center;border-radius: 5px 5px 5px 5px;"
+            },
+            "test1": {
+                "value": "平均QOS数",
+                "style": "color: #dfe4e9;"
+            },
+            "test2": {
+                "value": "3891",
+                "style": "color: #dfe4e9;"
+            },
+            "test3": {
+                "value": "ringChartList.value[2].status?\"显示\":\"隐藏\"",
+                "style": "color: #dfe4e9;"
+            }
+        },
+        {
+            "number": {
+                "value": 4,
+                "style": "color: #dfe4e9;"
+            },
+            "name": {
+                "value": "Huzz",
+                "style": "color: #dfe4e9;font-weight: 600;"
+            },
+            "sex": {
+                "value": "D",
+                "style": "color: #2DC277;border: 2px solid #2DC277;width: 20%;text-align: center;border-radius: 5px 5px 5px 5px;"
+            },
+            "test1": {
+                "value": "最大QOS数",
+                "style": "color: #dfe4e9;"
+            },
+            "test2": {
+                "value": "3891",
+                "style": "color: #dfe4e9;"
+            },
+            "test3": {
+                "value": "ringChartList.value[3].status?\"显示\":\"隐藏\"",
+                "style": "color: #dfe4e9;"
+            }
+        }
+    ]
+}

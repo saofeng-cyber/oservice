@@ -1,0 +1,78 @@
+{
+  "tooltip": {
+    "trigger": "axis",
+    "axisPointer": {
+      "type": "shadow",
+      "label": {
+        "show": true
+      }
+    }
+  },
+  "calculable": true,
+  "legend": {
+    "data": ["CPU", "内存"],
+    "itemGap": 5,
+    "left": "65%",
+    "top": "15%"
+  },
+  "grid": {
+    "top": "35%",
+    "left": "5%",
+    "right": "5%",
+    "bottom": "10%",
+    "containLabel": true
+  },
+  "xAxis": [
+    {
+      "type": "category",
+      "data": ["昆明","大理","丽江","玉溪","昭通","石林","临沧","曲靖","腾冲"],
+      "axisTick": {
+        "show": false
+      },
+      "axisLine": {
+        "show":true,
+        "lineStyle":{
+          "lineStyle": {
+            "color": "rgba(95, 119, 146, 1)",
+            "width": 2.5
+          }
+        }
+      }
+    }
+  ],
+  "yAxis": [
+    {
+      "type": "value",
+      "name": "单位: 条",
+      "offset": -22.5,
+      "axisLabel": {
+        "show": false
+      },
+      "splitLine": {
+        "show": false
+      }
+    }
+  ],
+  "series": [
+    {
+      "name": "CPU",
+      "type": "bar",
+      "itemStyle": {
+          "normal": {
+            "color": "#ba8312e3"
+        }
+      },
+      "data": [98,72,37,48,57,68,79,85,99]
+    },
+    {
+      "name": "内存",
+      "type": "bar",
+      "itemStyle": {
+          "normal": {
+            "color": "#499f0ee3"
+        }
+      },
+      "data": [54,54,36,42,64,57,86,63,47]
+    }
+  ]
+}

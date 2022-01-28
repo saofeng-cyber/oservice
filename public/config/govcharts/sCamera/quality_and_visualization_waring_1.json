@@ -1,0 +1,36 @@
+{
+			"iconShow": false,
+			"ranking": " 排名",
+			"province": "省份",
+			"warn": "客户数",
+			"info": [
+				{
+					"rank": 1,
+					"city": "北京",
+					"process": 97.17,
+					"num": 97.17,
+					"color": "#A26E06"
+				},
+				{
+					"rank": 2,
+					"city": "上海",
+					"process": 94.92,
+					"num": 94.92,
+					"color": "#1d7d55"
+				},
+				{
+					"rank": 3,
+					"city": "广东",
+					"process": 92.2,
+					"num": 92.2,
+					"color": "#2395e3"
+				},
+				{
+					"rank": 4,
+					"city": "浙江",
+					"process": 88.2,
+					"num": 88.2,
+					"color": "#87d6e6"
+				}
+			]
+		}

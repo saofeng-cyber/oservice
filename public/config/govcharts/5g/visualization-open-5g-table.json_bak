@@ -1,0 +1,114 @@
+{
+  "tableHeader": [
+    {"fieldName": "test1", "label": "序号", "order": true, "width": "220px", "sortable": true},
+    {"fieldName": "test2", "label": "工单主题", "order": true, "width": "220px", "sortable": true},
+    {"fieldName": "test3", "label": "客户编号", "order": true, "width": "220px", "sortable": true},
+    {"fieldName": "test4", "label": "客户名称", "order": true, "width": "220px", "sortable": true},
+    {"fieldName": "test5", "label": "工单类型", "order": true, "width": "220px", "sortable": true},
+    {"fieldName": "test6", "label": "省份", "order": true, "width": "160px", "sortable": true},
+    {"fieldName": "test7", "label": "产品实例", "order": true, "width": "130px", "sortable": true},
+    {"fieldName": "test8", "label": "当前环节", "order": true, "width": "150px", "sortable": true}
+  ],
+  "tableData": [
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "[集客][招商银行股份有限公司济南分行][京玖大厦-国贸广场(中华北路)FE0001KA]-投诉-2018-07-17 19:33:39", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "德州-庆云县邮政管理中心-数据专线-专线中断-15053463773-201901110000062274", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "潍坊-潍坊孕尚-互联网专线-专线中断-15005367052-201901110000035645", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "[集客][招商银行股份有限公司济南分行][京玖大厦-国贸广场(中华北路)FE0001KA]-投诉-2018-07-17 19:33:39", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "[集客][招商银行股份有限公司济南分行][京玖大厦-国贸广场(中华北路)FE0001KA]-投诉-2018-07-17 19:33:39", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "[集客][招商银行股份有限公司济南分行][京玖大厦-国贸广场(中华北路)FE0001KA]-投诉-2018-07-17 19:33:39", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "[集客][招商银行股份有限公司济南分行][京玖大厦-国贸广场(中华北路)FE0001KA]-投诉-2018-07-17 19:33:39", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "[集客][招商银行股份有限公司济南分行][京玖大厦-国贸广场(中华北路)FE0001KA]-投诉-2018-07-17 19:33:39", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "[集客][招商银行股份有限公司济南分行][京玖大厦-国贸广场(中华北路)FE0001KA]-投诉-2018-07-17 19:33:39", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "[集客][招商银行股份有限公司济南分行][京玖大厦-国贸广场(中华北路)FE0001KA]-投诉-2018-07-17 19:33:39", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青岛株樨森工贸有限公司", "style": "color: #dfe4e9;" },
+      "test5": { "value": "开通", "style": "color: #dfe4e9;" },
+      "test6": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test7": { "value": "101", "style": "color: #dfe4e9;" },
+      "test8": { "value": "现场排障", "style": "color: #dfe4e9;" }
+    }
+]
+}

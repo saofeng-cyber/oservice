@@ -1,0 +1,11 @@
+{
+  "5g_customer": "http://10.110.74.183:8097/5G/plugins/fg/t5gtabshow.jsp?pagename=customer_view&int_id=2396170265",
+  "5g_open": "http://10.110.74.183:8097/5G/plugins/fg/order/detail/order_detail.jsp?id=205735&form_no=YN-006-200812-001&model_name=t_ge_order_info",
+  "5g_complain": "http://10.110.74.183:8097/5G/plugins/fg/order/detail/order_detail.jsp?id=205735&form_no=YN-006-200812-001&model_name=t_ge_order_info",
+  "iot_customer": "http://10.110.74.183:8097/5G/plugins/fg/t5gtabshow.jsp?pagename=customer_view_iot&int_id=2396170265",
+  "group_customer": "http://10.110.74.183:8097/5G/plugins/fg/t5gtabshow.jsp?pagename=customer_view_line&int_id=2396170265",
+  "bBroad_customer": "http://10.110.74.183:8097/5G/plugins/fg/t5gtabshow.jsp?pagename=customer_view_eb&int_id=2396170265",
+  "cNet_customer": "http://10.110.74.183:8097/5G/plugins/fg/t5gtabshow.jsp?pagename=customer_view_cloud&int_id=2396170265",
+  "cVideo_customer": "http://10.110.74.183:8097/5G/plugins/fg/t5gtabshow.jsp?pagename=customer_view_cv&int_id=2396170265",
+  "sCamera_customer": "http://10.110.74.183:8097/5G/plugins/fg/t5gtabshow.jsp?pagename=customer_view_eye&int_id=2396170265"
+}

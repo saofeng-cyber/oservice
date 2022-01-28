@@ -1,0 +1,14 @@
+[
+  {
+  "test1": { "value": "云南神火铝业有限公司", "style": "color: #dfe4e9;" },
+  "test4": { "value": "云南", "style": "color: #dfe4e9;" },
+  "test2": { "value": "优享", "style": "color: #dfe4e9;" },
+  "test3": { "value": "制造业", "style": "color: #dfe4e9;" }
+  },
+  {
+    "test1": { "value": "天山铝业", "style": "color: #dfe4e9;" },
+    "test4": { "value": "湖北", "style": "color: #dfe4e9;" },
+    "test2": { "value": "优享", "style": "color: #dfe4e9;" },
+    "test3": { "value": "制造业", "style": "color: #dfe4e9;" }
+  }
+]

@@ -1,0 +1,92 @@
+{
+  "mapTopCardList": [
+    { "key": "0", "name": "专线数量", "value": 899, "img": "CIcon-Avatar", "color": "rgba(46, 196, 120, 1)", "backgroundColor": "linear-gradient(360deg, rgba(46, 196, 120, 0.64) 0%, rgba(46, 196, 120, 0.32) 100%)" },
+    { "key": "1", "name": "专线客户数", "value": 210, "img": "CIcon-Sound-One", "color": "rgba(17, 174, 220, 1)", "backgroundColor": "linear-gradient(360deg, rgba(17, 174, 220, 0.64) 0%, rgba(17, 174, 220, 0.32) 100%)" },
+    { "key": "2", "name": "专线总带宽", "value": 241, "img": "CIcon-Card-Two", "color": "rgba(255, 170, 6, 1)", "backgroundColor": "linear-gradient(360deg, rgba(255, 170, 6, 0.64) 0%, rgba(255, 170, 6, 0.32) 100%)" },
+    { "key": "3", "name": "重要业务数", "value": 356, "img": "CIcon-Sim-Card", "color": "rgba(2, 106, 255, 1)", "backgroundColor": "linear-gradient(360deg, rgba(2, 106, 255, 0.64) 0%, rgba(2, 106, 255, 0.32) 100%)" },
+    { "key": "3", "name": "地址总数", "value": 1252, "img": "CIcon-Comment-One", "color": "rgba(17, 174, 220, 1)", "backgroundColor": "linear-gradient(360deg, rgba(17, 174, 220, 0.64) 0%, rgba(17, 174, 220, 0.32) 100%)" }
+  ],
+  "mapData": {
+    "names": ["专线数量", "专线客户数", "专线总带宽", "重要业务数", "地址总数"],
+    "maxValues": [400, 100, 100, 30000, 100],
+    "info": [{"id":"xin_jiang","value":[101,73,42,20499,42]}, {"id":"xi_zang","value":[36,79,20,24785,42]}, {"id":"nei_meng_gu","value":[176,82,44,2122,42]}, {"id":"qing_hai","value":[110,54,40,1418,54]}, {"id":"si_chuan","value":[19,53,70,25474,54]}, {"id":"hei_long_jiang","value":[34,12,8,25891,70]}, {"id":"gan_su","value":[125,21,93,4355,70]}, {"id":"yun_nan","value":[332,91,37,308,70]}, {"id":"guang_xi","value":[249,2,41,7342,41]}, {"id":"hu_nan","value":[136,55,1,767,41]}, {"id":"shan_xi_1","value":[352,61,51,6444,61]}, {"id":"guang_dong","value":[398,74,8,29356,61]}, {"id":"ji_lin","value":[205,21,76,29565,21]}, {"id":"he_bei","value":[116,51,83,25418,21]}, {"id":"hu_bei","value":[358,77,74,318,77]}, {"id":"gui_zhou","value":[64,62,70,25028,77]}, {"id":"shan_dong","value":[277,16,97,24124,97]}, {"id":"jiang_xi","value":[97,87,49,3,97]}, {"id":"he_nan","value":[163,86,9,26603,97]}, {"id":"liao_ning","value":[79,2,34,19010,34]}, {"id":"shan_xi_2","value":[392,45,84,12854,34]}, {"id":"an_hui","value":[384,29,88,8616,29]}, {"id":"fu_jian","value":[232,38,98,9803,29]}, {"id":"zhe_jiang","value":[294,29,8,23314,29]}, {"id":"jiang_su","value":[139,12,37,5231,37]}, {"id":"chong_qing","value":[163,39,5,23836,37]}, {"id":"ning_xia","value":[353,99,59,17874,37]}, {"id":"hai_nan","value":[35,22,25,29265,25]}, {"id":"tai_wan","value":[310,70,60,19283,60]}, {"id":"bei_jing","value":[296,75,8,23481,60]}, {"id":"tian_jin","value":[188,18,73,6694,60]}, {"id":"shang_hai","value":[151,11,65,17420,60]}, {"id":"xiang_gang","value":[277,76,63,12437,60]}, {"id":"ao_men","value":[230,10,25,12491,60]}]
+  },
+  "mapData2": {
+    "names": ["专线数量", "专线客户数", "专线总带宽", "重要业务数", "地址总数"],
+    "maxValues": [400, 100, 100, 30000],
+    "info": [{"id":"530100","value":[327,46,68,12855]}, {"id":"530300","value":[272,35,65,26323]}, {"id":"530400","value":[182,83,63,4973]}, {"id":"530500","value":[40,100,57,24117]}, {"id":"530600","value":[294,7,23,28477]}, {"id":"530700","value":[284,91,67,16867]}, {"id":"530800","value":[150,48,92,12655]}, {"id":"530900","value":[294,55,91,2951]}, {"id":"532300","value":[84,51,91,24103]}, {"id":"532500","value":[40,83,62,21221]}, {"id":"532600","value":[356,40,66,24844]}, {"id":"532800","value":[256,2,54,18292]}, {"id":"532900","value":[61,98,86,25425]}, {"id":"533100","value":[69,69,79,6811]}, {"id":"533300","value":[172,37,15,6007]}, {"id":"533400","value":[158,60,23,14063]}]
+  },
+  "customServiceData": {
+    "title": "客户服务模式",
+    "info": [
+      { "value": 742, "name": "优享", "color": "#0066FF", "url": "" },
+      { "value": 446, "name": "专享", "color": "#FFA800", "url": "" },
+      { "value": 163, "name": "尊享", "color": "#2EC478", "url": "" }
+    ]
+  },
+  "dnnData": {
+    "title": "DNN类型",
+    "info": [
+      { "value": 981, "name": "全国", "color": "#2EC478", "url": "" }
+    ]
+  },
+  "coreNetRes5GData": [
+    { "name": "共享型UPF数", "value": 1067, "img": "UPF.png" },
+    { "name": "独享型UPF数", "value": 3547, "img": "UPF.png" },
+    { "name": "AMF数", "value": 415, "img": "AMF.png" },
+    { "name": "SMF数", "value": 453, "img": "SMF.png" }
+  ],
+  "honorNetRes5GData": [
+    { "name": "独享型无线基站数", "value": 354, "img": "BaseStation.png" },
+    { "name": "独享型MEC资源数", "value": 312, "img": "MEC.png" }
+  ],
+  "warningRanking1Data": {
+    "ranking":" 排名",
+    "province":"省份",
+    "warn":"客户数",
+    "provinces":"浙江",
+    "prov":"北京",
+    "pros":"江苏",
+    "provins":"福建",
+    "one": 95,
+    "two": 93,
+    "three": 83,
+    "four": 70,
+    "numberone":"8763",
+    "numbertwo":"7625",
+    "numberthree":"6729",
+    "numberfour":"5827"
+  },
+  "warningRanking2Data": {
+    "ranking":" 排名",
+    "province":"省份",
+    "warn":"客户数",
+    "provinces":"行业-A",
+    "prov":"行业-B",
+    "pros":"行业-C",
+    "provins":"行业-D",
+    "one": 96,
+    "two": 87,
+    "three": 74,
+    "four": 68,
+    "numberone":"8364",
+    "numbertwo":"7948",
+    "numberthree":"6736",
+    "numberfour":"5927"
+  },
+  "warningRanking3Data": {
+    "ranking":"排名",
+    "province":"省份",
+    "warn":"客户数",
+    "Working":"工单数",
+    "value":["江苏","广东","浙江","山东","四川","北京","上海","山西"],
+    "nun":[88,79,59,58,53,50,46,44],
+    "number":["974","90","89","88","85","73","67","63"]
+  },
+  "lineChartData": [{
+    "name": "客户数",
+    "data": [97, 86, 56, 74, 67, 64, 55],
+    "xData": ["06-01", "06-05", "06-10", "06-15", "06-20", "06-25", "06-30"],
+    "yName": "单位： 个"
+  }]
+}

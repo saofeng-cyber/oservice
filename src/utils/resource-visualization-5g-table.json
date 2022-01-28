@@ -1,0 +1,130 @@
+{
+  "tableHeader": [
+    {"fieldName": "test1", "label": "序号", "order": true, "width": "220px", "sortable": true},
+    {"fieldName": "test2", "label": "客户名称", "order": true, "width": "220px", "sortable": true},
+    {"fieldName": "test2", "label": "客户编号", "order": true, "width": "220px", "sortable": true},
+    {"fieldName": "test3", "label": "省份", "order": true, "width": "160px", "sortable": true},
+    {"fieldName": "test4", "label": "行业", "order": true, "width": "130px", "sortable": true},
+    {"fieldName": "test5", "label": "级别", "order": true, "width": "150px", "sortable": true},
+    {"fieldName": "test6", "label": "服务模式", "order": true, "width": "150px", "sortable": true}
+  ],
+  "tableData": [
+    {
+      "test1": { "value": "1", "style": "color: #dfe4e9;" },
+      "test2": { "value": "云南神火铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237360", "style": "color: #dfe4e9;" },
+      "test4": { "value": "云南", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "A", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "2", "style": "color: #dfe4e9;" },
+      "test2": { "value": "西南铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "8713109035", "style": "color: #dfe4e9;" },
+      "test4": { "value": "重庆", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "C", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "3", "style": "color: #dfe4e9;" },
+      "test2": { "value": "贵州铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237362", "style": "color: #dfe4e9;" },
+      "test4": { "value": "贵州", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "A", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "4", "style": "color: #dfe4e9;" },
+      "test2": { "value": "青海铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "8711100133", "style": "color: #dfe4e9;" },
+      "test4": { "value": "青海", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "A", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "5", "style": "color: #dfe4e9;" },
+      "test2": { "value": "兰州铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "2802101062", "style": "color: #dfe4e9;" },
+      "test4": { "value": "甘肃", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "A", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "6", "style": "color: #dfe4e9;" },
+      "test2": { "value": "河南铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237365", "style": "color: #dfe4e9;" },
+      "test4": { "value": "河南", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "A", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "7", "style": "color: #dfe4e9;" },
+      "test2": { "value": "包头铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "871110578", "style": "color: #dfe4e9;" },
+      "test4": { "value": "内蒙", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "A", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "8", "style": "color: #dfe4e9;" },
+      "test2": { "value": "西北铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "2802101078", "style": "color: #dfe4e9;" },
+      "test4": { "value": "甘肃", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "A", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "9", "style": "color: #dfe4e9;" },
+      "test2": { "value": "华西铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "87118237368", "style": "color: #dfe4e9;" },
+      "test4": { "value": "江苏", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "A", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "10", "style": "color: #dfe4e9;" },
+      "test2": { "value": "渤海铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "8711100183", "style": "color: #dfe4e9;" },
+      "test4": { "value": "河北", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "A", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "11", "style": "color: #dfe4e9;" },
+      "test2": { "value": "闽铝铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "8711100184", "style": "color: #dfe4e9;" },
+      "test4": { "value": "福建", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "C", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "12", "style": "color: #dfe4e9;" },
+      "test2": { "value": "佛山铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "8711100185", "style": "color: #dfe4e9;" },
+      "test4": { "value": "广东", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "D", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    },
+    {
+      "test1": { "value": "13", "style": "color: #dfe4e9;" },
+      "test2": { "value": "坚美铝业", "style": "color: #dfe4e9;" },
+      "test3": { "value": "8711100186", "style": "color: #dfe4e9;" },
+      "test4": { "value": "广东", "style": "color: #dfe4e9;" },
+      "test5": { "value": "制造", "style": "color: #dfe4e9;" },
+      "test6": { "value": "C", "style": "color: #dfe4e9;" },
+      "test7": { "value": "优享", "style": "color: #dfe4e9;" }
+    }
+]
+}

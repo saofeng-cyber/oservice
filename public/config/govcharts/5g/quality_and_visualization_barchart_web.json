@@ -1,0 +1,78 @@
+{
+  "tooltip": {
+    "trigger": "axis",
+    "axisPointer": {
+      "type": "shadow",
+      "label": {
+        "show": true
+      }
+    }
+  },
+  "calculable": true,
+  "legend": {
+    "data": ["CPU", "内存"],
+    "itemGap": 5,
+    "left": "65%",
+    "top": "15%"
+  },
+  "grid": {
+    "top": "35%",
+    "left": "5%",
+    "right": "5%",
+    "bottom": "10%",
+    "containLabel": true
+  },
+  "xAxis": [
+    {
+      "type": "category",
+      "data": ["北京","上海","深圳","浙江","江苏","广州","河北","湖北","河南"],
+      "axisTick": {
+        "show": false
+      },
+      "axisLine": {
+        "show":true,
+        "lineStyle":{
+          "lineStyle": {
+            "color": "rgba(95, 119, 146, 1)",
+            "width": 2.5
+          }
+        }
+      }
+    }
+  ],
+  "yAxis": [
+    {
+      "type": "value",
+      "name": "单位: 条",
+      "offset": -22.5,
+      "axisLabel": {
+        "show": false
+      },
+      "splitLine": {
+        "show": false
+      }
+    }
+  ],
+  "series": [
+    {
+      "name": "CPU",
+      "type": "bar",
+      "itemStyle": {
+          "normal": {
+            "color": "#ba8312e3"
+        }
+      },
+      "data": [54,2,65,86,35,23,7,67,9]
+    },
+    {
+      "name": "内存",
+      "type": "bar",
+      "itemStyle": {
+          "normal": {
+            "color": "#499f0ee3"
+        }
+      },
+      "data": [46,27,43,4,87,67,7,68,97]
+    }
+  ]
+}

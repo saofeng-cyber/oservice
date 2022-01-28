@@ -1,0 +1,78 @@
+{
+  "tooltip": {
+    "trigger": "axis",
+    "axisPointer": {
+      "type": "shadow",
+      "label": {
+        "show": true
+      }
+    }
+  },
+  "calculable": true,
+  "legend": {
+    "data": ["4G覆盖率", "NB网络覆盖率"],
+    "itemGap": 5,
+    "left": "65%",
+    "top": "15%"
+  },
+  "grid": {
+    "top": "35%",
+    "left": "5%",
+    "right": "5%",
+    "bottom": "10%",
+    "containLabel": true
+  },
+  "xAxis": [
+    {
+      "type": "category",
+      "data": ["北京","上海","深圳","浙江","江苏","广州","河北","湖北","河南"],
+      "axisTick": {
+        "show": false
+      },
+      "axisLine": {
+        "show":true,
+        "lineStyle":{
+          "lineStyle": {
+            "color": "rgba(95, 119, 146, 1)",
+            "width": 2.5
+          }
+        }
+      }
+    }
+  ],
+  "yAxis": [
+    {
+      "type": "value",
+      "name": "单位: %",
+      "offset": -22.5,
+      "axisLabel": {
+        "show": false
+      },
+      "splitLine": {
+        "show": false
+      }
+    }
+  ],
+  "series": [
+    {
+      "name": "4G覆盖率",
+      "type": "bar",
+      "itemStyle": {
+        "normal": {
+          "color": "#0C6686"
+        }
+      },
+      "data": [1,2,3,4,5,6,7,8,9]
+    },
+    {
+      "name": "NB网络覆盖率",
+      "type": "bar",
+      "itemStyle": {
+        "normal": {
+          "color": "#1F7853"
+        }
+      },
+      "data": [1,2,3,4,5,6,7,8,9]
+    }
+  ]
+}
